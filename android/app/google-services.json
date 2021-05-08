@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336693585434",
+    "project_id": "prize-bond-6d0bc",
+    "storage_bucket": "prize-bond-6d0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336693585434:android:4858b2c30bb3e8caa113a3",
+        "android_client_info": {
+          "package_name": "com.prizebond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336693585434-nir0rsgkvutpbspkc2he3sbchhrkfbj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prizebond",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "336693585434-jk2094q1bqkpca4sb1rmluprnj976458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCl_-dwvkAB39hJGnw-5JgajigDgKAhxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336693585434-jk2094q1bqkpca4sb1rmluprnj976458.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
